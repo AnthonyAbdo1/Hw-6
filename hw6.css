@@ -1,0 +1,156 @@
+
+.container{
+    border-left: solid;
+    border-right: solid;
+    border-width: 50px;
+    background-color: aliceblue;
+    
+    
+}
+
+
+.header{
+    height:200px;
+    background-color: aquamarine;
+    border-radius: 40%;
+}
+
+.me{
+    height: 100px;
+    width: 100px;
+    border-radius: 60%;
+   margin-left: 80px;
+    
+    border: dotted;
+
+    
+    
+}
+
+.li {
+    display: inline;
+    padding-left: 20px;
+    border-radius: 40%;
+    
+}
+
+.linkbuttons{
+    
+    display: inline;
+    margin-left: 23px;
+    border-radius: 40%;
+    
+    
+}
+
+
+.heading1{
+    
+    text-align: center;
+}
+
+.p1{
+    font-family: fantasy;
+    text-align: center;
+}
+
+.p2{
+    font-family: serif;
+    text-align: center;
+}
+
+.well1{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 300px;
+}
+
+.well2{
+     height: 300px;
+    margin-top: 30px;
+}
+
+.well3{
+     margin-top: 50px;
+   
+    height: 300px;
+}
+
+.left{
+    width: 33%; 
+    background-color: lightgray;
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 20px;
+    
+}
+
+.middle{
+width: 33%; 
+    background-color: lightslategray;
+    height: 400px;
+     margin-top: 40px;
+      border-radius: 20px;
+}
+
+.right{
+    width: 33%; 
+    background-color: lightgray;
+    height: 400px;
+     margin-top: 40px;
+      border-radius: 20px;
+}
+
+.me2{
+    width: 40px;
+    height: 40px;
+}
+
+.me3{
+      width: 40px;
+    height: 40px;
+    border-radius: 60%;
+}
+
+.me4{
+      width: 40px;
+    height: 40px;
+      border-radius: 60%;
+}
+
+.me5{
+      width: 40px;
+    height: 40px;
+      border-radius: 60%;
+}
+
+.isay{
+    display: inline;
+    padding: 20px;
+}
+
+.mytwit{
+    width: 150px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.says{
+    border-bottom: solid;
+}
+
+.li{
+    background-color: black;
+    text-align: center;
+    padding: 3px;
+    
+}
+
+.op{
+    opacity: 0.7;
+    letter-spacing: 10px;
+    margin-left: 350px;
+    font-size: 50px;
+    padding-top: 55px;
+    
+}
